@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  src: local('Roboto'), url('../fonts/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: 'Montserrat ExtraLight';
+  font-weight: 200;
+  src: local('Montserrat'), url('../fonts/Montserrat-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 300;
+  src: local('Montserrat'), url('../fonts/Montserrat-Light.ttf');
+}
+@font-face {
+  font-family: 'Montserrat Regular';
+  font-weight: 400;
+  src: local('Montserrat'), url('../fonts/Montserrat-Regular.ttf');
+}
+@font-face {
+  font-family: 'Raleway Regular';
+  font-weight: 400;
+  src: local('Raleway'), url('../fonts/Raleway-Regular.ttf');
+}
+@font-face {
+  font-family: 'Raleway Medium';
+  font-weight: 500;
+  src: local('Raleway'), url('../fonts/Raleway-Medium.ttf');
+}
+@font-face {
+  font-family: 'Raleway SemiBold';
+  font-weight: 600;
+  src: local('Raleway'), url('../fonts/Raleway-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'Raleway Bold';
+  font-weight: 700;
+  src: local('Raleway'), url('../fonts/Raleway-Bold.ttf');
+}
+.clr {
+  clear: both;
+}
+wrapper {
+  width: 100%;
+  background-color: #ffffff;
+}
+.light {
+  color: #959595;
+}
